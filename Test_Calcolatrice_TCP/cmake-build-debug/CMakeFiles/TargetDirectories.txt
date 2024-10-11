@@ -1,0 +1,4 @@
+C:/Users/franc/Desktop/Test_Calcolatrice_TCP/cmake-build-debug/CMakeFiles/Client.dir
+C:/Users/franc/Desktop/Test_Calcolatrice_TCP/cmake-build-debug/CMakeFiles/Server.dir
+C:/Users/franc/Desktop/Test_Calcolatrice_TCP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/franc/Desktop/Test_Calcolatrice_TCP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

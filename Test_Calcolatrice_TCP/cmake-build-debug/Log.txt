@@ -1,0 +1,27 @@
+SERVER - [17:14:42 11/12/2023] - Connection established with 127.0.0.1:60596
+SERVER - [17:14:47 11/12/2023] - Client: 127.0.0.1:60596 send: - 9 2
+SERVER - [17:14:47 11/12/2023] - Server: 127.0.0.1:60596 said: 7.00
+SERVER - [17:14:51 11/12/2023] - Client: 127.0.0.1:60596 send: - 9 -8
+SERVER - [17:14:51 11/12/2023] - Server: 127.0.0.1:60596 said: 17.00
+SERVER - [17:14:59 11/12/2023] - Client: 127.0.0.1:60596 send: - 9 -1
+SERVER - [17:14:59 11/12/2023] - Server: 127.0.0.1:60596 said: 10.00
+SERVER - [17:15:07 11/12/2023] - Client: 127.0.0.1:60596 send: - -9 10
+SERVER - [17:15:07 11/12/2023] - Server: 127.0.0.1:60596 said: -19.00
+SERVER - [17:15:10 11/12/2023] - Client: 127.0.0.1:60596 send: =
+SERVER - [17:15:10 11/12/2023] - Server: 127.0.0.1:60596 said: Bye
+SERVER - [17:15:10 11/12/2023] - Closing connection with 127.0.0.1:60596
+SERVER - [17:15:10 11/12/2023] - Searching for a client...
+SERVER - [17:15:23 11/12/2023] - Connection established with 127.0.0.1:60637
+SERVER - [17:15:27 11/12/2023] - Client: 127.0.0.1:60637 send: + 8 2
+SERVER - [17:15:27 11/12/2023] - Server: 127.0.0.1:60637 said: 10.00
+SERVER - [17:15:29 11/12/2023] - Client: 127.0.0.1:60637 send: =
+SERVER - [17:15:29 11/12/2023] - Server: 127.0.0.1:60637 said: Bye
+SERVER - [17:15:29 11/12/2023] - Closing connection with 127.0.0.1:60637
+SERVER - [17:15:29 11/12/2023] - Searching for a client...
+SERVER - [17:28:35 11/12/2023] - Socket created successfully!
+SERVER - [17:28:35 11/12/2023] - Searching for a client...
+SERVER - [17:28:39 11/12/2023] - Connection established with 127.0.0.1:61585
+SERVER - [17:28:43 11/12/2023] - Client: 127.0.0.1:61585 send: =
+SERVER - [17:28:43 11/12/2023] - Server: 127.0.0.1:61585 said: Bye
+SERVER - [17:28:43 11/12/2023] - Closing connection with 127.0.0.1:61585
+SERVER - [17:28:43 11/12/2023] - Searching for a client...

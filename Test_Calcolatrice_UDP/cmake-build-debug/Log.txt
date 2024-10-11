@@ -1,0 +1,133 @@
+SERVER - [14:53:31 14/12/2023] - Server socket created successfully!
+SERVER - [14:53:31 14/12/2023] - Server socket binded successfully!
+SERVER - [14:53:31 14/12/2023] - Searching for a client...
+CLIENT - [14:53:36 14/12/2023] - Server socket created successfully!
+CLIENT - [14:53:36 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [14:53:36 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [14:53:36 14/12/2023] - Server socket binded successfully!
+CLIENT - [14:53:48 14/12/2023] - Invalid input format. Please use the format: operator[+-*/] value value or = to close the connection
+SERVER - [14:54:07 14/12/2023] - Request operation '+ 25 25c' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [14:54:07 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 25 + 25 = 50.00
+SERVER - [14:54:50 14/12/2023] - Request operation '/ 0 0' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [14:54:50 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: |Error| -  Division by Zero
+SERVER - [14:55:16 14/12/2023] - Request operation '* 0 0' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [14:55:16 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 0 * 0 = 0.00
+SERVER - [14:55:20 14/12/2023] - Request operation '* 9 6' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [14:55:20 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 9 * 6 = 54.00
+CLIENT - [14:55:31 14/12/2023] - Invalid input format. Please use the format: operator[+-*/] value value or = to close the connection
+CLIENT - [14:55:48 14/12/2023] - Invalid input format. Please use the format: operator[+-*/] value value or = to close the connection
+SERVER - [14:56:41 14/12/2023] - Request operation '/ 23 45' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [14:56:41 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 23 / 45 = 0.51
+CLIENT - [14:58:06 14/12/2023] - Closing the connection...
+SERVER - [14:58:06 14/12/2023] - Request operation '=' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [14:58:06 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: Bye
+SERVER - [14:59:58 14/12/2023] - Server socket created successfully!
+SERVER - [14:59:58 14/12/2023] - Server socket binded successfully!
+SERVER - [14:59:58 14/12/2023] - Searching for a client...
+SERVER - [15:00:30 14/12/2023] - Server socket created successfully!
+SERVER - [15:00:30 14/12/2023] - Server socket binded successfully!
+SERVER - [15:00:30 14/12/2023] - Searching for a client...
+CLIENT - [15:00:39 14/12/2023] - Server socket created successfully!
+CLIENT - [15:00:39 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:00:39 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:00:39 14/12/2023] - Server socket binded successfully!
+SERVER - [15:00:42 14/12/2023] - Request operation '+ 25 5' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:00:42 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 25 + 5 = 30.00
+SERVER - [15:00:54 14/12/2023] - Request operation '* 8 5' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:00:54 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 8 * 5 = 40.00
+SERVER - [15:01:46 14/12/2023] - Server socket created successfully!
+SERVER - [15:01:46 14/12/2023] - Server socket binded successfully!
+SERVER - [15:01:46 14/12/2023] - Searching for a client...
+SERVER - [15:01:55 14/12/2023] - Request operation '+ 5 5' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:01:55 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 5 + 5 = 10.00
+CLIENT - [15:02:00 14/12/2023] - Server socket created successfully!
+CLIENT - [15:02:00 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:02:00 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:02:00 14/12/2023] - Server socket binded successfully!
+SERVER - [15:02:09 14/12/2023] - Request operation '+ 5 5.' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:02:09 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 5 + 5 = 10.00
+SERVER - [15:02:30 14/12/2023] - Server socket created successfully!
+SERVER - [15:02:30 14/12/2023] - Server socket binded successfully!
+SERVER - [15:02:30 14/12/2023] - Searching for a client...
+CLIENT - [15:02:32 14/12/2023] - Server socket created successfully!
+CLIENT - [15:02:32 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:02:32 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:02:32 14/12/2023] - Server socket binded successfully!
+SERVER - [15:02:52 14/12/2023] - Request operation '+ 5 5' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:02:52 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 5 + 5 = 10.00
+SERVER - [15:03:40 14/12/2023] - Server socket created successfully!
+SERVER - [15:03:40 14/12/2023] - Server socket binded successfully!
+SERVER - [15:03:40 14/12/2023] - Searching for a client...
+CLIENT - [15:05:53 14/12/2023] - Server socket created successfully!
+CLIENT - [15:05:53 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:05:53 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:05:53 14/12/2023] - Server socket binded successfully!
+SERVER - [15:06:39 14/12/2023] - Request operation '+ 9 9' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:06:39 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 9 + 9 = 18.00
+CLIENT - [15:06:43 14/12/2023] - Closing the connection...
+SERVER - [15:06:43 14/12/2023] - Request operation '=' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:06:43 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: Bye
+CLIENT - [15:10:41 14/12/2023] - Server socket created successfully!
+CLIENT - [15:10:41 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:10:41 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:10:41 14/12/2023] - Server socket binded successfully!
+CLIENT - [15:10:45 14/12/2023] - Closing the connection...
+SERVER - [15:10:45 14/12/2023] - Request operation '=' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:10:45 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: Bye
+CLIENT - [15:10:54 14/12/2023] - Server socket created successfully!
+CLIENT - [15:10:54 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:10:54 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:10:54 14/12/2023] - Server socket binded successfully!
+CLIENT - [15:10:56 14/12/2023] - Closing the connection...
+SERVER - [15:10:56 14/12/2023] - Request operation '=' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:10:56 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: Bye
+CLIENT - [15:11:46 14/12/2023] - Server socket created successfully!
+CLIENT - [15:11:46 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:11:46 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:11:46 14/12/2023] - Server socket binded successfully!
+CLIENT - [15:11:48 14/12/2023] - Closing the connection...
+SERVER - [15:11:48 14/12/2023] - Request operation '=' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:11:48 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: Bye
+CLIENT - [15:12:12 14/12/2023] - Server socket created successfully!
+CLIENT - [15:12:12 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:12:12 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:12:12 14/12/2023] - Server socket binded successfully!
+SERVER - [15:12:28 14/12/2023] - Request operation '+ 9 9000' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:12:28 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 9 + 9000 = 9009.00
+CLIENT - [15:12:36 14/12/2023] - Invalid input format. Please use the format: operator [+-*/] value value or = to close the connection
+SERVER - [15:15:19 14/12/2023] - Server socket created successfully!
+SERVER - [15:15:19 14/12/2023] - Server socket binded successfully!
+SERVER - [15:15:19 14/12/2023] - Searching for a client...
+CLIENT - [15:15:23 14/12/2023] - Server socket created successfully!
+CLIENT - [15:15:23 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:15:23 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:15:23 14/12/2023] - Server socket binded successfully!
+SERVER - [15:15:31 14/12/2023] - Request operation '+ 5.5 9.6' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:15:31 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 5 + 9 = 14.00
+SERVER - [15:17:15 14/12/2023] - Server socket created successfully!
+SERVER - [15:17:15 14/12/2023] - Server socket binded successfully!
+SERVER - [15:17:15 14/12/2023] - Searching for a client...
+CLIENT - [15:17:17 14/12/2023] - Server socket created successfully!
+CLIENT - [15:17:17 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:17:17 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:17:17 14/12/2023] - Server socket binded successfully!
+SERVER - [15:17:27 14/12/2023] - Request operation '+ 5.5 9.3' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:17:27 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 5.500000 + 9.300000 = 14.80
+SERVER - [15:18:03 14/12/2023] - Server socket created successfully!
+SERVER - [15:18:03 14/12/2023] - Server socket binded successfully!
+SERVER - [15:18:03 14/12/2023] - Searching for a client...
+CLIENT - [15:18:07 14/12/2023] - Server socket created successfully!
+CLIENT - [15:18:07 14/12/2023] - Address and port not entered, standard value applied!
+CLIENT - [15:18:07 14/12/2023] - Address resolved: 127.0.0.1:56700
+CLIENT - [15:18:07 14/12/2023] - Server socket binded successfully!
+SERVER - [15:18:13 14/12/2023] - Request operation '+ 5.5 3.6' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:18:13 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 5.50 + 3.60 = 9.10
+SERVER - [15:18:27 14/12/2023] - Request operation '/ 0.00 0.00' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:18:27 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: |Error| -  Division by Zero
+SERVER - [15:18:41 14/12/2023] - Request operation '- 9.66 9.22' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:18:41 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 9.66 - 9.22 = 0.44
+SERVER - [15:18:58 14/12/2023] - Request operation '- 9.323 9.237' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:18:58 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: 9.32 - 9.24 = 0.09
+CLIENT - [15:19:08 14/12/2023] - Closing the connection...
+SERVER - [15:19:08 14/12/2023] - Request operation '=' from client cbs.wondershare.com, IP 127.0.0.1
+CLIENT - [15:19:08 14/12/2023] - Received result from server cbs.wondershare.com, ip 127.0.0.1: Bye
