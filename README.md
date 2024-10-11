@@ -10,8 +10,6 @@
 
 ## Linguaggio e IDE Utilizzato
 
-<div align="center">
-
 | Linguaggio | IDE Utilizzato |
 |:----------:|:--------------:|
 | <code><img alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /></code> | <code><img alt="CLion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"/></code> |
